@@ -1,0 +1,21 @@
+
+.navigation-buttons {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  
+  button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    background: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    cursor: pointer;
+  } 
+  
